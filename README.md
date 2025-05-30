@@ -1,6 +1,6 @@
 #  Hey there! I'm Sushil Shetty
 
-🚀 A passionate **Tech Enthusiast**, **AI/ML Developer**, and **Entrepreneur** on a mission to build innovative solutions that create real-world impact.
+A passionate **Tech Enthusiast**, **AI/ML Developer**, and **Entrepreneur** on a mission to build innovative solutions that create real-world impact.
 
 ---
 
