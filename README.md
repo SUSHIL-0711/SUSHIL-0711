@@ -1,16 +1,16 @@
-# 👋 Hey there! I'm Sushil Shetty
+#  Hey there! I'm Sushil Shetty
 
 🚀 A passionate **Tech Enthusiast**, **AI/ML Developer**, and **Entrepreneur** on a mission to build innovative solutions that create real-world impact.
 
 ---
 
-## 👀 What Drives Me
+##  What Drives Me
 
 I believe technology should do more than just function — it should **solve problems**. From **AI-driven products** to **scalable startup ideas**, I'm constantly exploring how we can use cutting-edge tech to make a difference.
 
 ---
 
-## 🔍 Interests
+##  Interests
 
 - 🤖 Artificial Intelligence & Machine Learning  
 - 💡 Tech Entrepreneurship & Product Innovation  
@@ -19,16 +19,15 @@ I believe technology should do more than just function — it should **solve pro
 
 ---
 
-## 🌱 Currently Growing In
+##  Currently Growing In
 
-- Advanced AI & ML Algorithms  
-- Building MVPs for Tech Startups  
+- Advanced AI & ML Algorithms    
 - Scalable Backend Systems & APIs  
 - User-centric Product Development  
 
 ---
 
-## 🤝 Let's Collaborate
+##  Let's Collaborate
 
 I’m always open to team up on:
 - 🔬 Research-based AI/ML projects  
@@ -37,7 +36,7 @@ I’m always open to team up on:
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 - 📧 shettysushil0711@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/sushil-v-shetty-93803a251)  
@@ -45,7 +44,7 @@ I’m always open to team up on:
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
 I love combining **technology** with **entrepreneurship** to craft powerful solutions that aren't just smart — they matter.
 
